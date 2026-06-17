@@ -29,7 +29,7 @@
 
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aronaldo&theme=deepBlue&hide_border=true&border_radius=15&locale=pt-br" alt="aronaldo" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aronaldo/aronaldo&theme=github-compact&hide_border=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
+(https://github-readme-activity-graph.cyclic.app/graph?username=Aronaldo/aronaldo&theme=github-compact&hide_border=true&radius=15)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">:round_pushpin: Profile visitors</p>
 <div align="center">
